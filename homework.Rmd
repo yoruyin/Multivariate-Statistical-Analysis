@@ -1,6 +1,6 @@
 ---
 title: "多元统计分析期末作业"
-author: "统计1701 尹恒"
+author: ""
 date: "2020/5/18"
 output: 
   pdf_document: 
