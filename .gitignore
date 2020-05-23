@@ -1,0 +1,7 @@
+*.RData
+*.Rhistory
+*.aux
+*.log
+*.synctex.gz
+*.zip
+/homework_files
